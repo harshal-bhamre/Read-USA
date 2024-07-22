@@ -1,0 +1,40 @@
+{
+    "menu": [
+        {
+            "url": "",
+            "name": "Dashboard",
+            "icon": "home",
+            "slug": ""
+        },
+        {
+            "url": "teacher/tutor",
+            "name": "Tutors",
+            "icon": "home",
+            "slug": "teacher-tutor"
+        },
+        {
+            "url": "",
+            "name": "Students",
+            "icon": "home",
+            "slug": ""
+        },
+        {
+            "url": "",
+            "name": "Student Weekly Progress",
+            "icon": "home",
+            "slug": ""
+        },
+        {
+            "url": "teacher/tutors/tutors_weekly_progress/list",
+            "name": "Tutor Weekly Progress",
+            "icon": "home",
+            "slug": "teacher-tutors-tutors_weekly_progress-list"
+        },
+        {
+            "url": "",
+            "name": "Progress Report",
+            "icon": "home",
+            "slug": ""
+        }
+    ]
+}

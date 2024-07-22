@@ -1,0 +1,76 @@
+{
+  "menu": [
+    {
+      "url": "",
+      "name": "Dashboard",
+      "icon": "home",
+      "slug": ""
+    },
+    {
+      "url": "app/observer",
+      "name": "Observer",
+      "icon": "home",
+      "slug": ""
+    },
+    {
+      "url": "siteCoordinator/list",
+      "name": "Site Coordinator",
+      "icon": "home",
+      "slug": "siteCoordinator-list"
+    },
+    {
+      "url": "app/schools",
+      "name": "Schools",
+      "icon": "home",
+      "slug": ""
+    },
+    {
+      "url": "teacher/list",
+      "name": "Teachers",
+      "icon": "home",
+      "slug": "teacher-list"
+    },
+    {
+      "url": "tutor/list",
+      "name": "Tutors",
+      "icon": "home",
+      "slug": "tutor-list"
+    },
+    {
+      "url": "app/student",
+      "name": "Students",
+      "icon": "home",
+      "slug": "app-kanban"
+    },
+    {
+      "url": "app/file-manager",
+      "name": "Student Weekly Progress",
+      "icon": "home",
+      "slug": ""
+    },
+    {
+      "url": "tutor/tutors_weekly_progress/list",
+      "name": "Tutor Weekly Progress",
+      "icon": "home",
+      "slug": "tutor-tutors_weekly_progress-list"
+    },
+    {
+      "url": "app/file-manager",
+      "name": "Progress Report",
+      "icon": "home",
+      "slug": ""
+    },
+    {
+      "url": "cohort/list",
+      "name": "Cohorts",
+      "icon": "home",
+      "slug": "cohort-list"
+    },
+    {
+      "url": "app/file-manager",
+      "name": "Settings",
+      "icon": "settings",
+      "slug": ""
+    }
+  ]
+}

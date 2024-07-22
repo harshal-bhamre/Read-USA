@@ -1,0 +1,52 @@
+{
+    "menu": [
+        {
+            "url": "observer/dashboard",
+            "name": "Dashboard",
+            "icon": "home",
+            "slug": "observer-dashboard"
+        },
+        {
+            "url": "observer/schools",
+            "name": "Schools",
+            "icon": "home",
+            "slug": "observer-schools"
+        },
+        {
+            "url": "",
+            "name": "Teachers",
+            "icon": "home",
+            "slug": ""
+        },
+        {
+            "url": "observer/tutors/list/",
+            "name": "Tutors",
+            "icon": "home",
+            "slug": "observer-tutors-list"
+        },
+        {
+            "url": "",
+            "name": "Students",
+            "icon": "home",
+            "slug": ""
+        },
+        {
+            "url": "",
+            "name": "Student Weekly Progress",
+            "icon": "home",
+            "slug": ""
+        },
+        {
+            "url": "",
+            "name": "Tutor Weekly Progress",
+            "icon": "home",
+            "slug": ""
+        },
+        {
+            "url": "",
+            "name": "Progress Report",
+            "icon": "home",
+            "slug": ""
+        }
+    ]
+}
